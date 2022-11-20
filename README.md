@@ -1,4 +1,4 @@
-# LAPR-PROJECTS
+# LAPR1-PROJECT
 
 This project was made entirely on JAVA.
 
